@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Simulator (UI)",
+            "request": "launch",
+            "mainClass": "CipherSimulator",
+            "projectName": "crypto-simulator"
+        },
+        {
+            "type": "java",
+            "name": "Run Tests (console)",
+            "request": "launch",
+            "mainClass": "CryptoTest",
+            "projectName": "crypto-simulator"
+        }
+    ]
+}
